@@ -2,33 +2,33 @@
 
 Grafiska verktyg för gränssnittsdesign
 
-#Inlämning 1
+# Inlämning 1
 Sinus Skateboard webshop
 
 Ett Figmaprojekt
 
 Berörda kursmål
 
-Kunskaper
+## Kunskaper
 
 Design och layout
 Färglära
 Typografi
 
-Färdigheter
+## Färdigheter
 
-Applicera designtänk, samt använda bilder, färger och typografi för att skapa en lättbegriplig och effektiv visuell kommunikation
+* Applicera designtänk, samt använda bilder, färger och typografi för att skapa en lättbegriplig och effektiv visuell kommunikation
 
-Skapa och presentera designförslag på gränssnitt med användbarhet, användarvänlighet i fokus
+* Skapa och presentera designförslag på gränssnitt med användbarhet, användarvänlighet i fokus
 
-Kompetenser
+## Kompetenser
 
-Självständigt designa och genomföra skapandet av användargränssnitt, med användarvänlighet och interaktion i fokus
+* Självständigt designa och genomföra skapandet av användargränssnitt, med användarvänlighet och interaktion i fokus
 
 
-Självständigt designa och skapa olika former av visuell kommunikation utifrån ändamål.
+* Självständigt designa och skapa olika former av visuell kommunikation utifrån ändamål.
 
-Instruktioner
+# Instruktioner
 Ditt uppdrag är att som ny frontend / UI-designer på Sinus skateboards designa deras nya webshop!
 
 Sidan är i 1.0-version endast avsedd för desktop.
@@ -43,7 +43,7 @@ Struktur
 Webshopen ska ha följande struktur / innehåll:
 Samtliga vyer ( undantaget cart ) ska ha en header med logotyp och meny samt cart.
 
-Produkter
+* Produkter
 Sökfunktion
 Filter för olika produkter
 Produkter
@@ -53,7 +53,7 @@ Rating
 Pris
 en Hero produkt som ska promotas extra ( ex. Gretas Furybrädan - limited edition )
 
-Enskild produkt
+* Enskild produkt
 Bild ( större )
 Titel
 Rating
@@ -62,17 +62,17 @@ Ev val av storlek på produkt ( ex. tshirt, hoodie )
 Pris
 Call To Action - lägg i varukorg ( add to cart )
 
-Varukorg ( cart )
+* Varukorg ( cart )
 Produkter
 Summerat pris
 CTA - gå till kassan ( checkout )
 
-Kassa ( checkout )
+* Kassa ( checkout )
 Leveransadress
 Betalalternativ
 CTA - genomför order ( buy )
 
-Tekniker
+## Tekniker
 I följande uppgift ska du visa att du i Figma behärskar följande tekniker:
 
 Frames
