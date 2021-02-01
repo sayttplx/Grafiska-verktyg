@@ -1,6 +1,4 @@
-# Grafiska-verktyg
-
-Grafiska verktyg för gränssnittsdesign
+# Grafiska verktyg för gränssnittsdesign
 
 # Inlämning 1
 Sinus Skateboard webshop
