@@ -1,6 +1,6 @@
 # Grafiska verktyg för gränssnittsdesign
 
-# Inlämning 1
+# Inlämning 
 Sinus Skateboard webshop
 
 Ett Figmaprojekt
