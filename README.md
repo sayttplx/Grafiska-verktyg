@@ -1,4 +1,6 @@
-# Grafiska verktyg för gränssnittsdesign
+# Projektarbete i grafiska verktyg för gränssnittsdesign.
+
+Länk till projektet i figma: https://www.figma.com/file/j5WYhPrZ0OkV0FplUQvj41/Kim-Sinius-Webshop?node-id=0%3A1
 
 # Inlämning 
 Sinus Skateboard webshop
